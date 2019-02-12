@@ -5,6 +5,6 @@ fast we need to install <Nmap>
 and also <figlet>
 command is .
   <
-sudo apt install nmap
-sudo apt install figlet>
+sudo apt install nmap>
+<sudo apt install figlet>
   
