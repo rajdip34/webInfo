@@ -2,7 +2,7 @@ from robot_txt_finder import get_robot_txt
 import os
 
 def nm(ip_a):
-    cm = 'nmap ' + ip_a
+    cm = 'nmap -v -O -A ' + ip_a
 
     pr = os.popen(cm)
 
